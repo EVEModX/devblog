@@ -38,7 +38,7 @@ google_analytics: UA-81818659-3
 
 markdown: kramdown
 
-remote_theme: yous/whiteglass
+remote_theme: riggraz/no-style-please
 
 plugins:
   - jekyll-archives

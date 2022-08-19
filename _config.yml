@@ -31,14 +31,14 @@ github_username:  EVEModX
 author: EVEModX
 
 comments: true
-disqus: evemodx
+disqus-shortname: "evemodx"
 google_analytics: UA-81818659-3
 
 # Build settings
 
 markdown: kramdown
 
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: rosario/kasper
 
 plugins:
   - jekyll-archives

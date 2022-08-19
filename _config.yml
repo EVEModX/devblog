@@ -58,8 +58,7 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
     
-tracker:
-  google_analytics: "UA-81818659-3"
+google_analytics: "UA-81818659-3"
   
 # Exclude from processing.
 # The following items will not be processed, by default.

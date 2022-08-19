@@ -38,7 +38,7 @@ google_analytics: UA-81818659-3
 
 markdown: kramdown
 
-remote_theme: riggraz/no-style-please
+remote_theme: sighingnow/jekyll-gitbook
 
 plugins:
   - jekyll-archives
@@ -57,7 +57,10 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-
+    
+tracker:
+  google_analytics: "UA-81818659-3"
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

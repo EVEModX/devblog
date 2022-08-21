@@ -39,7 +39,7 @@ google_analytics: UA-81818659-3
 
 markdown: kramdown
 
-remote_theme: rosario/kasper
+remote_theme: aterenin/minima-reboot
 
 plugins:
   - jekyll-archives

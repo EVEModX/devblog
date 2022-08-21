@@ -27,8 +27,11 @@ meta_description: EVEModX Dev Blog
 
 baseurl: ""
 url: "https://blog.evemodx.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  EVEModX
+footer_icons:
+- username: EVEModX
+  url: https://github.com/EVEModX
+  icon: icon-github.svg
+
 author: EVEModX
 
 comments: true
@@ -48,7 +51,7 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
-paginate: 5
+paginate: 15
 
 logo: false
 

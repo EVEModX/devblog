@@ -21,7 +21,7 @@ name: EVEModX Dev Blog
 title: EVEModX Dev Blog
 
 email: 
-description: EVEModX Dev Blog, all EVE Online related trademarks and other materials are the property of their respective owners. 
+description: All EVE Online related trademarks and other materials are the property of their respective owners. 
 meta_description: EVEModX Dev Blog
 
 
@@ -35,7 +35,9 @@ footer_icons:
 author: EVEModX
 
 comments: true
-disqus-shortname: "evemodx"
+disqus:
+  shortname: evemodx
+  
 google_analytics: UA-81818659-3
 
 # Build settings

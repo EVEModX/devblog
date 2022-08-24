@@ -17,5 +17,5 @@ categories: evemodx translation
 
 ### 工具使用
 
-- `DNT!` 代表这个条目不需要翻译，其在生成最终成果时直接由汉化工具 fallback 到英文。
+- `!DNT` 代表这个条目不需要翻译，其在生成最终成果时直接由汉化工具 fallback 到英文。使用场景：CCP 出了个新东西，中文暂时没更新官方翻译，用 `!DNT` 占位等官方翻译出来。
 - 某些条目带有格式化参数([举例](https://weblate.evemodx.com))，我们称它为 kwargs，其大致结构为 `<<文本>>!====FORMAT-KWARGS====!<<json 字符串>>`，分为两部分，由中间的 `!====FORMAT-KWARGS====!` 间隔（前后各有一个换行符 \n）。文本部分的格式化占位符与后面的 json key 存在完全对应关系，在提交翻译时系统会检查错误，如发现会[提示](https://p.sda1.dev/6/a4cb2a731739bdf36272e255f512f5bc/Snipaste_2022-08-24_09-03-56.png)。

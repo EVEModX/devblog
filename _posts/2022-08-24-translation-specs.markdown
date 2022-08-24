@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "翻译规范"
-date:   2022-08-24 11:05:18 +0800
+date:   2022-08-24 08:05:18 +0800
 categories: evemodx translation
 ---
 

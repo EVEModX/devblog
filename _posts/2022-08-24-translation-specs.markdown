@@ -33,6 +33,10 @@ categories: evemodx translation
 
 ## 语言规范
 
+### 用语
+
+- 请优先使用游戏内一致的词语，如游戏内已出现“开采”，则翻译时近似的语境尽量不使用“采集”
+
 ### 标点及符号
 
 - 请在 中文文字 与 英文字母、数字、符号 间加入空格，具体规则请参考 [ArchWiki](https://wiki.archlinux.org/title/Help:Style_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%B8%AD%E8%8B%B1%E6%96%87%E6%B7%B7%E6%8E%92)

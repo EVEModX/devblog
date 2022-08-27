@@ -9,6 +9,8 @@ categories: evemodx translation
 
 这篇文章将会指导你如何进行翻译。为保证翻译的效率和质量，请加入 QQ 群 771790118 以便进行交流。
 
+*(持续修订中)*
+
 ## 翻译平台使用
 
 本项目使用[Weblate系统](https://weblate.evemodx.com/)进行翻译，对所有人开放注册，不同用户所拥有的权限如下（后者拥有前者权限）：
@@ -31,7 +33,9 @@ categories: evemodx translation
 
 ## 语言规范
 
-(TBD)
+### 标点及符号
+
+- 请在 中文文字 与 英文字母、数字、符号 间加入空格，具体规则请参考 [https://wiki.archlinux.org/title/Help:Style_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%B8%AD%E8%8B%B1%E6%96%87%E6%B7%B7%E6%8E%92](https://wiki.archlinux.org/title/Help:Style_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%B8%AD%E8%8B%B1%E6%96%87%E6%B7%B7%E6%8E%92)
 
 ## 特殊语法标记
 
